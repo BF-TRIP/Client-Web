@@ -5,6 +5,7 @@ import Step2 from '../pages/Onboarding/Step2Page';
 import Step3 from '../pages/Onboarding/Step3Page';
 import Step4 from '../pages/Onboarding/Step4Page';
 import PlaceDetail from '../pages/PlaceDetail/PlaceDetailPage';
+import Home from '../pages/home/pages/home';
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path: '/place-detail/*',
     element: <PlaceDetail />,
+  },
+  {
+    path: '/home/*',
+    element: <Home />,
   },
 ]);
 

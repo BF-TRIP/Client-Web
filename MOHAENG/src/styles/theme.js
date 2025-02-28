@@ -2,7 +2,7 @@ const defaultTheme = {
     color: {
         white: '#FFFFFF',
         black: '#000000',
-        primary: '#0A70C9',
+        primary: '#FFE54A',
         primary2: '#1650A9',
         primary3: '#00ADEE',
         blue1: '#BDE5FF',
