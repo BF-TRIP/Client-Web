@@ -1,7 +1,15 @@
 export { default as IcPlacedetailHeaderBack } from "./IcPlacedetailHeaderBack";
+export { default as BtnHomeVoice } from "./BtnHomeVoice";
 export { default as IcBlind } from "./IcBlind";
+export { default as IcCommonLogo } from "./IcCommonLogo";
 export { default as IcDeaf } from "./IcDeaf";
+export { default as IcDetailBack } from "./IcDetailBack";
+export { default as IcDetailSave } from "./IcDetailSave";
+export { default as IcDetailVoice } from "./IcDetailVoice";
 export { default as IcElderly } from "./IcElderly";
+export { default as IcHomeBubble } from "./IcHomeBubble";
+export { default as IcHomeSave44 } from "./IcHomeSave44";
+export { default as IcHomeVoiceBg } from "./IcHomeVoiceBg";
 export { default as IcInfant } from "./IcInfant";
 export { default as IcOnboardingActicity } from "./IcOnboardingActicity";
 export { default as IcOnboardingBeach } from "./IcOnboardingBeach";
